@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-just a Data used for my bakkesmod plugin
+just a data used for my bakkesmod plugin version
