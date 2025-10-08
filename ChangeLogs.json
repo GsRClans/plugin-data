@@ -1,16 +1,78 @@
 [
   {
+    "version": "1.0.6",
+    "changes": [
+	  "Complete design overhaul"
+      "Added custom theme",
+	  "Added (online) goal speed",
+	  "Added (online) show player boost",
+	  "Added (online) car hitbox",
+	  "Added (online) ball / player line esp",
+	  "Added (online) pad timer",
+	  "Added custom color (car/wheel/boost)",
+	  "Added change car/wheel size",
+	  "Added client side spawned items"
+    ]
+  },
+  {
+    "version": "1.0.5",
+    "changes": [
+      "Added custom modals",
+	  "Added name changer",
+	  "Added change map in replay",
+	  "Added ALT F4 | FPS counter",
+	  "Added auto queue",
+	  "Added (freeplay) ball predictor",
+	  "Added (freeplay) has flip",
+	  "Added (freeplay) car speed",
+	  "Added (freeplay) ball size",
+	  "Added show player count"
+    ]
+  },
+ {
+    "version": "1.0.4",
+    "changes": [
+      "Added custom title icon texture",
+	  "Added custom stadium ad texture",
+	  "Added custom ball online texture",
+	  "Added json creator for ball texture"
+    ]
+  },
+ {
+    "version": "1.0.3",
+    "changes": [
+      "Added rocket pass editor",
+	  "Added custom team name",
+	  "Added custom team color",
+	  "Added custom stadium color"
+    ]
+  },
+  {
+    "version": "1.0.2",
+    "changes": [
+      "Added support for custom club titles",
+	  "Added currency spawner",
+	  "Added rank editor",
+	  "Added custom message MOTD",
+	  "Added custom countdown messages",
+	  "Added custom goal messages"
+    ]
+  },
+  {
     "version": "1.0.1",
     "changes": [
-      "Added support for custom player titles"
+      "Added support for custom player titles",
+	  "Added Title/Items/Car/Drops spawner",
+	  "Added custom location",
+	  "Added custom FOV",
+	  "Added Background changer"
     ]
   },
   {
     "version": "1.0.0",
     "changes": [
       "Initial release",
-      "Added base UI framework",
-      "Implemented data binding system"
+      "Added base UI framework"
     ]
   }
 ]
