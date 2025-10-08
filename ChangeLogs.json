@@ -2,7 +2,7 @@
   {
     "version": "1.0.6",
     "changes": [
-	  "Complete design overhaul"
+	  "Complete design overhaul",
       "Added custom theme",
 	  "Added (online) goal speed",
 	  "Added (online) show player boost",
@@ -76,3 +76,4 @@
     ]
   }
 ]
+
