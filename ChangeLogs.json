@@ -1,0 +1,16 @@
+[
+  {
+    "version": "1.0.1",
+    "changes": [
+      "Added support for custom player titles"
+    ]
+  },
+  {
+    "version": "1.0.0",
+    "changes": [
+      "Initial release",
+      "Added base UI framework",
+      "Implemented data binding system"
+    ]
+  }
+]
