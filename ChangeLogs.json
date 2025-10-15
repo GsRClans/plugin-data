@@ -5,7 +5,7 @@
 	  "Updated RLSDK to v2.59",
       "Flip indicator work now online",
 	  "Car speed work now online",
-	  "Added filter option for Esp / boost",
+	  "Added filter option for esp / boost",
 	  "Fixed custom club title",
 	  "Fixed bug UI design icon",
 	  "Fixed bug car color",
@@ -36,7 +36,7 @@
 	  "Added ALT F4 | FPS counter",
 	  "Added auto queue",
 	  "Added (freeplay) ball predictor",
-	  "Added (freeplay) has flip",
+	  "Added (freeplay) flip indicator",
 	  "Added (freeplay) car speed",
 	  "Added (freeplay) ball size",
 	  "Added show player count"
@@ -89,5 +89,6 @@
     ]
   }
 ]
+
 
 
