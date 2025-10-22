@@ -1,5 +1,16 @@
 [
 	{
+    "version": "1.0.8",
+    "changes": [
+	  "Updated RLSDK to v2.60",
+      "FPS optimization for some draw function",
+	  "Added custom avatar texture",
+	  "Added all player flip indicator",
+	  "Added scale goal explosion",
+	  "Added demolition FX"
+    ]
+  },
+	{
     "version": "1.0.7",
     "changes": [
 	  "Updated RLSDK to v2.59",
@@ -89,6 +100,7 @@
     ]
   }
 ]
+
 
 
 
