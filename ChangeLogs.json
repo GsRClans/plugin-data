@@ -1,5 +1,14 @@
 [
 	{
+    "version": "1.0.9",
+    "changes": [
+	  "Updated RLSDK to v2.61",
+      "Added ability to enable/disable custom statut",
+	  "Added UI additional information",
+	  "Flip indicator all player is broken"
+    ]
+  },
+	{
     "version": "1.0.8",
     "changes": [
 	  "Updated RLSDK to v2.60",
@@ -100,6 +109,7 @@
     ]
   }
 ]
+
 
 
 
