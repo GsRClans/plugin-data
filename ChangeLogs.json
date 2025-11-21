@@ -1,6 +1,6 @@
 [
 	{
-    "version": "1.0.9.5",
+    "version": "1.1.0",
     "changes": [
 	  "Updated RLSDK to v2.62"
     ]
@@ -116,6 +116,7 @@
     ]
   }
 ]
+
 
 
 
