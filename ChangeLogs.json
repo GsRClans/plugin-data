@@ -2,7 +2,8 @@
 	{
     "version": "1.1.0",
     "changes": [
-	  "Updated RLSDK to v2.62"
+	  "Updated RLSDK to v2.62",
+	  "Fixed bug load license"
     ]
   },
 	{
@@ -116,6 +117,7 @@
     ]
   }
 ]
+
 
 
 
