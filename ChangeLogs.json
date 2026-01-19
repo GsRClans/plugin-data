@@ -5,10 +5,13 @@
 	  "Fix authentification systeme",
 	  "Added T.A.S ( beta version )",
       "Added fake ping spoofer",
-	  "Added show boost on nameplate",
+	  "Added boost player on nameplate",
 	  "Added filter for pad timer",
 	  "Added game speed / gravity freeplay",
-	  "Reorganized online tab page"
+	  "Reorganized online tab page",
+      "FPS optimization for some draw fonction",
+	  "Overhaul of the ball prediction (works online)",
+	  "Fixed population count feature"
     ]
   },
 	{
@@ -135,6 +138,7 @@
     ]
   }
 ]
+
 
 
 
