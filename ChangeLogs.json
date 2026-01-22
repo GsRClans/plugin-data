@@ -2,13 +2,15 @@
 	{
     "version": "1.1.2",
     "changes": [
+	  "Updated RLSDK to v2.64",
 	  "Fix authentification systeme",
+	  "Added hoops gamemode for pad timer",
+	  "Added filter for pad timer",
 	  "Added T.A.S ( beta version )",
       "Added fake ping spoofer",
 	  "Added boost player on nameplate",
-	  "Added filter for pad timer",
 	  "Added game speed / gravity freeplay",
-	  "Reorganized online tab page",
+	  "Reorganized tab page",
       "FPS optimization for some draw fonction",
 	  "Overhaul of the ball prediction (works online)",
 	  "Fixed population count feature"
@@ -138,6 +140,7 @@
     ]
   }
 ]
+
 
 
 
