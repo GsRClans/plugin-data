@@ -10,6 +10,8 @@
       "Added fake ping spoofer",
 	  "Added boost player on nameplate",
 	  "Added game speed / gravity freeplay",
+	  "Added ball speed in visual",
+	  "Added Custom Discord Rich Presence",
 	  "Reorganized tab page",
       "FPS optimization for some draw fonction",
 	  "Overhaul of the ball prediction (works online)",
@@ -140,6 +142,7 @@
     ]
   }
 ]
+
 
 
 
