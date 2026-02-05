@@ -12,8 +12,10 @@
 	  "Added game speed / gravity freeplay",
 	  "Added ball speed in visual",
 	  "Added custom discord rich presence",
+	  "Added session stats display",
 	  "Reorganized tab page",
       "FPS optimization for some draw fonction",
+	  "FPS optimization for ball prediction",
 	  "Overhaul of the ball prediction (works online)",
 	  "Fixed population count feature"
     ]
@@ -142,6 +144,7 @@
     ]
   }
 ]
+
 
 
 
