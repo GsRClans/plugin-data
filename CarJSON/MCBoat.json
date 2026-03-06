@@ -1,0 +1,16 @@
+{
+    "Minecraft Boat": {
+        "MeshPath": "MCBoat.Body_MCBoat_SK",
+        "BodyId": 23,
+		"HideTrails": true,
+		"HideWheels": true,
+		"SkinMaterialIndex": 2
+    },
+	"Minecraft Boat + Egg": {
+        "MeshPath": "MCBoat.Body_MCBoat_Egg_SK",
+        "BodyId": 23,
+		"HideTrails": true,
+		"HideWheels": true,
+		"SkinMaterialIndex": 2
+    }
+}
