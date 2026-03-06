@@ -1,0 +1,11 @@
+{
+    "SpeedRacer": {
+        "MeshPath": "SpeedRacer.SpeedRacer_SK",
+	"SuspensionStiffnessScale": 3.0,
+        "BodyId": 403,
+		"WheelScale": {
+				"Front": 0.75,
+				"Back": 0.8
+				}
+    }
+}

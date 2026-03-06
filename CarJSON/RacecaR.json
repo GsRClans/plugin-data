@@ -1,0 +1,13 @@
+{
+    "Race Car": {
+        "MeshPath": "racecar.racecar_SK",
+        "ChassisMaterialIndex": 2,
+        "SkinMaterialIndex": 0,
+	"SuspensionStiffnessScale": 3.0,
+        "BodyId": 403,
+		"WheelScale": {
+				"Front": 0.7,
+				"Back": 0.8
+				}
+    }
+}

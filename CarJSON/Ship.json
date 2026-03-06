@@ -1,0 +1,7 @@
+{
+    "Ship": {
+        "MeshPath": "Ship.Ship_SK",
+        "BodyId": 23,
+		"HideWheels": true
+    }
+}

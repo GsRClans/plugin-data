@@ -1,0 +1,10 @@
+{
+    "Mystery Machine": {
+        "MeshPath": "Scoob.MVAN_SK",
+        "ChassisMaterialIndex": 0,
+        "SkinMaterialIndex": 4,
+	"SuspensionStiffnessScale": 3.0,
+        "BodyId": 30,
+		"WheelScale": 0.75
+    }
+}
