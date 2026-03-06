@@ -1,0 +1,14 @@
+{
+
+    "Homer Simpson Car repl Dominus": {
+		"MeshPath": "homer30.homercar30",
+		"BodyID": 403,
+		"HideWheels": false,
+		"HideTrails": false,
+		"WheelScale": 0.53,
+		"ChassisMaterialIndex": 1,
+		"SkinMaterialIndex": 0
+
+		}
+
+}

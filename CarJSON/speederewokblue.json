@@ -1,0 +1,15 @@
+{
+
+
+    "Speeder Ewok greyblue": {
+		"MeshPath": "spdewok1.spdewok1",
+		"BodyID": 4780,
+		"HideWheels": true,
+		"HideTrails": false,
+		"WheelScale": 0.53,
+		"ChassisMaterialIndex": 1,
+		"SkinMaterialIndex": 0
+		}
+
+
+}

@@ -1,0 +1,11 @@
+{
+    "FenMobile": {
+        "MeshPath": "Fenmobile.FenMobile_SK",
+	"SuspensionStiffnessScale": 3.0,
+        "BodyId": 23,
+		"WheelScale": {
+				"Front": 1.0,
+				"Back": 1.25
+				}
+    }
+}

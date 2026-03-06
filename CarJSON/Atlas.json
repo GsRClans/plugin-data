@@ -1,0 +1,13 @@
+{
+    "Atlas": {
+        "MeshPath": "Atlas.Atlas_SK",
+	"SuspensionStiffnessScale": 3.0,
+        "ChassisMaterialIndex": 3,
+        "SkinMaterialIndex": 2,
+        "BodyId": 23,
+		"WheelScale": {
+				"Front": 0.7,
+				"Back": 0.8
+				}
+    }
+}

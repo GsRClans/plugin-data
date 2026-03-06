@@ -1,0 +1,15 @@
+{
+
+    "Spongebob PattyMobile": {
+		"MeshPath": "spongebob3.spongebob3_SK",
+		"BodyID": 23,
+		"HideWheels": true,
+		"HideTrails": false,
+		"Wheelscale": 1.0,
+		"ChassisMaterialIndex": 1,
+		"SkinMaterialIndex": 0
+		}
+
+
+
+}

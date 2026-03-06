@@ -1,0 +1,7 @@
+{
+    "Hotdog": {
+        "MeshPath": "hotdog.hotdog_SK",
+        "BodyId": 403,
+		"HideWheels": true
+    }
+}

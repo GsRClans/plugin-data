@@ -1,0 +1,13 @@
+{
+    "AE86": {
+        "MeshPath": "AE86.ae86_SK",
+        "BodyId": 22,
+	"SuspensionStiffnessScale": 3.0,
+        "ChassisMaterialIndex": 1,
+        "SkinMaterialIndex": 0,
+		"WheelScale": {
+				"Front": 0.8,
+				"Back": 0.8
+				}
+    }
+}

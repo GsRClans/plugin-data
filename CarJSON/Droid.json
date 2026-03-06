@@ -1,0 +1,23 @@
+{
+    "Droid Yellow": {
+        "MeshPath": "Droid_Yellow.Droid_BB_SK",
+        "BodyId": 404,
+        "Group": "Droid",
+		"HideWheels": true,
+		"HideTrails": true
+    },
+    "Droid White": {
+        "MeshPath": "Droid_White.Droid_BB_SK",
+        "BodyId": 404,
+        "Group": "Droid",
+		"HideWheels": true,
+		"HideTrails": true
+    },
+    "Droid Black": {
+        "MeshPath": "Droid_Black.Droid_BB_SK",
+        "BodyId": 404,
+        "Group": "Droid",
+		"HideWheels": true,
+		"HideTrails": true
+    }
+}

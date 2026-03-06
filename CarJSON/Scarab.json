@@ -1,0 +1,7 @@
+{
+    "Scarab": {
+        "MeshPath": "Scarab.Scarab_SK",
+        "BodyId": 404,
+		"WheelScale": 1.0
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "Snowglider": {
+        "MeshPath": "snowglider.snowglider_SK",
+        "ChassisMaterialIndex": 0,
+        "SkinMaterialIndex": 4,
+	"SuspensionStiffnessScale": 3.0,
+        "BodyId": 30,
+		"HideWheels": true,
+		"HideTrails": true
+    }
+}

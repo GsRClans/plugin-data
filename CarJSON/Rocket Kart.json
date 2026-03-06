@@ -1,0 +1,11 @@
+{
+    "Red": {
+        "MeshPath": "Mario.kart_SK",
+	"SuspensionStiffnessScale": 3.0,
+        "BodyId": 23,
+		"WheelScale": {
+				"Front": 0.7,
+				"Back": 0.85
+				}
+    }
+}

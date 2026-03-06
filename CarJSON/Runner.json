@@ -1,0 +1,11 @@
+{
+    "Runner": {
+        "MeshPath": "runner.runner_SK",
+	"SuspensionStiffnessScale": 3.0,
+        "BodyId": 22,
+		"WheelScale": {
+				"Front": 0.9,
+				"Back": 1.1
+				}
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "Koenigsegg": {
+        "MeshPath": "Koenigsegg.Koenigsegg_SK",
+        "BodyId": 403,
+	"SuspensionStiffnessScale": 3.0,
+        "ChassisMaterialIndex": 3,
+        "SkinMaterialIndex": 2,
+		"WheelScale": {
+				"Front": 0.75,
+				"Back": 0.8
+				}
+    }
+}
